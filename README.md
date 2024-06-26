@@ -1,0 +1,2 @@
+# tarsh-can
+trash can
